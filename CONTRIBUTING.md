@@ -151,7 +151,7 @@ Fixes https://github.com/<Full URL to issues/issue #>
 ```
 Improve the Documentation of how to use Adapter Interfaces #321
 
-Adpater interfaces are a power full feature in IEC 61499. 
+Adpater interfaces are a powerful feature in IEC 61499. 
 Eclipse 4diac IDE was one of the first IDEs to support 
 Adapters Interfaces in all FB Types and Subapplications. 
 This change extends the existing documentation of adapter 
